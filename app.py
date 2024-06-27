@@ -90,7 +90,7 @@ def advanced_alg(input_industry, df, tfidf, tfidf_matrix, cosine_sim, tier_weigh
 # Streamlit app layout
 
 # Load logo
-logo_path = 'C:/Users/ayman/Desktop/IPTP Exec/Notebooks/dataset/IPTP.png'
+logo_path = 'dataset/IPTP.png'
 logo = Image.open(logo_path)
 
 # Display logo and title side by side
