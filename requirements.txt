@@ -9,7 +9,6 @@ PySocks==1.7.1
 python-dateutil==2.9.0.post0
 pytz==2024.1
 requests==2.32.3
-search_engines @ file:///C:/Users/ayman/Downloads/Search-Engines-Scraper-master/Search-Engines-Scraper-master
 six==1.16.0
 soupsieve==2.5
 tzdata==2024.1
